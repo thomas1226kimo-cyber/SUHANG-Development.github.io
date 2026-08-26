@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thomas1226kimo-cyber.github.io/SUHANG-Development.github.io/sitemap.xml

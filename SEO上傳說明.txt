@@ -1,0 +1,23 @@
+蘇杭開發官網｜Google SEO 版
+
+本版本以原 GitHub Pages 官網為基礎，未修改原頁面版面、正文、圖片或互動功能。
+僅新增：
+1. canonical 網址
+2. robots / Googlebot 索引設定
+3. Open Graph / 社群分享資訊
+4. Organization 結構化資料
+5. robots.txt
+6. sitemap.xml
+
+GitHub 上傳方式：
+請將本 ZIP 解壓縮後，把「index.html、robots.txt、sitemap.xml、images 資料夾」等檔案放在 GitHub Pages 儲存庫根目錄。
+
+網站網址：
+https://thomas1226kimo-cyber.github.io/SUHANG-Development.github.io/
+
+上傳完成後，請至 Google Search Console：
+1. 新增「網址前置字元」資源
+2. 輸入上述完整網站網址
+3. 完成所有權驗證
+4. 提交 sitemap.xml
+5. 用「網址檢查」檢查首頁並要求建立索引
