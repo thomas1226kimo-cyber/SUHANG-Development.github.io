@@ -2,5 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://thomas1226kimo-cyber.github.io/SUHANG-Development.github.io/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://thomas1226kimo-cyber.github.io/SUHANG-Development.github.io/services/case-review.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://thomas1226kimo-cyber.github.io/SUHANG-Development.github.io/services/improvement-plan.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://thomas1226kimo-cyber.github.io/SUHANG-Development.github.io/services/fire-safety.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://thomas1226kimo-cyber.github.io/SUHANG-Development.github.io/services/wastewater.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://thomas1226kimo-cyber.github.io/SUHANG-Development.github.io/services/soil-water.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://thomas1226kimo-cyber.github.io/SUHANG-Development.github.io/services/architect-certification.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://thomas1226kimo-cyber.github.io/SUHANG-Development.github.io/services/environmental.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://thomas1226kimo-cyber.github.io/SUHANG-Development.github.io/services/specific-factory.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://thomas1226kimo-cyber.github.io/SUHANG-Development.github.io/services/land-use.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://thomas1226kimo-cyber.github.io/SUHANG-Development.github.io/services/general-factory.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
 </urlset>
