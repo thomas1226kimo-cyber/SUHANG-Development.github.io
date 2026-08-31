@@ -575,6 +575,40 @@
   "inLanguage": "zh-TW"
 }
 </script>
+
+<style id="video-card-equal-height-fix">
+/* 影音卡片文字等高：標題、摘要保留彈性，觀看影音固定對齊底部 */
+.video-card{
+  display:flex !important;
+  flex-direction:column !important;
+}
+.video-card-copy{
+  display:flex !important;
+  flex-direction:column !important;
+  flex:1 1 auto !important;
+}
+.video-card-copy small{
+  min-height:1.8em;
+}
+.video-card-copy h4{
+  min-height:3.05em;
+}
+.video-card-copy p{
+  min-height:4.8em;
+}
+.video-card-copy .watch-link{
+  margin-top:auto !important;
+  align-self:flex-start;
+}
+@media(max-width:600px){
+  .video-card-copy small,
+  .video-card-copy h4,
+  .video-card-copy p{
+    min-height:0;
+  }
+}
+</style>
+
 </head>
 <body>
 <header class="topbar">
